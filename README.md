@@ -15,9 +15,8 @@ Dlatego się przebranżawiam. A że kierownik produkcji musi myśleć do przodu,
 QA i Scrum Master.
 <BR>
 Obecnie jestem na bezpłatnym dla obu stron stażu/kursie na QA. Może uda mi się zaczepić w firmie, a może nie, więc 
-zwiększam swoje szanse na znalazienie pierwszej popracy przez uczestnictwo w challengu. Chcę sprawdzić czego 
-mnie nauczyli w innych warunkach
-niż warunkach stażu. 
+zwiększam swoje szanse na znalazienie pierwszej popracy przez uczestnictwo w challengu. Chcę sprawdzić w innym środowisku czego 
+mnie nauczyli na kursostażu.
 
 ***
 ### Subtask 4
