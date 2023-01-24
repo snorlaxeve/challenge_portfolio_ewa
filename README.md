@@ -166,8 +166,16 @@ Tested on Brave.<BR><BR>
 2) ostrzeżenie o brakach danych po kliknięciu "SUBMIT" "po kolei" a nie od razu hurtem, czego brakuje
 3) ale po "CLEAR" już mamy wymagane poświetlone
    
-   * ostatnio stworzony gracz i ostatnio zaktualizowany gracz
+  * ostatnio stworzony gracz i ostatnio zaktualizowany gracz
+      * boczne menu
+       * Strona główna
+       * Gracz <<<<< ZMIANA
+       * Mecze <<<<< NOWOŚĆ >>>>>>>>>
+       * Raporty <<<<<< NOWOŚĆ >>>>>>>
+       * wybór języka
+       * Wyloguj
       * ten sam formularz co "dodaj gracza" patrz *90
- * UWAGI:
-1) Dlaczego to jest ten sam formularz, który umożlwia edycję. Chcę zobaczyć ostatnio stworzonego/zaktualizowanego gracza a z poziomu oglądania chcę zdecydować o edycji
+   * UWAGI:<BR>
+    1) Dlaczego to jest ten sam formularz, który umożlwia edycję. Chcę zobaczyć ostatnio stworzonego/zaktualizowanego gracza a z poziomu oglądania chcę zdecydować o edycji
 
+   CDN 
