@@ -6,8 +6,8 @@
 ***
    
 ### T2:Subtask 3
-<i>done</i> 
-
+Piszemy przypadki testowe aby sprawdzić czy aplikacja spełnia założenia projektu (specyfikację) i zachowuje się zgodnie z przeznaczeniem. Przypadki testowe są wykorzystywane do testowania funkcjonalności, wydajności i użyteczności oprogramowania oraz do identyfikowania i naprawiania błędów. 
+   <br><i>chyba</i>
 ***
    
 # Task 1
