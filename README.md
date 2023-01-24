@@ -1,7 +1,7 @@
 # TASK 2
    
-### T2:Subtask 1 & 2
-[Przypadki testowe](https://docs.google.com/spreadsheets/d/1CDK7us9w0jQDl_VsfiwmI2Ei3JcWl5vY85XZlH__Ujc/edit#gid=2120182824)<BR>
+###  T2:Subtask 1 & 2
+[Subtask1](https://docs.google.com/spreadsheets/d/1CDK7us9w0jQDl_VsfiwmI2Ei3JcWl5vY85XZlH__Ujc/edit#gid=0)<BR>
    <i>jeden plik google sheet z zakładkami</i>
 ***
    
