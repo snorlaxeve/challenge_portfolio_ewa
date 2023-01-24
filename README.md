@@ -43,3 +43,15 @@ No nie jest. Gdzie na pierwszy rzut oka mogę dodać mecz? Albo raport? A
 Tested on Brave.<BR><BR>
 
 [tu task 1 w rozwinięciu, nie dokończony, bo zmieniła mi się wizja w między czasie](https://github.com/snorlaxeve/challenge_portfolio_ewa/wiki/Readme-v01)
+   
+***
+   
+# Task 2
+   
+### Subtask 1 & 2
+[Przypadki testowe](https://docs.google.com/spreadsheets/d/1CDK7us9w0jQDl_VsfiwmI2Ei3JcWl5vY85XZlH__Ujc/edit#gid=2120182824)
+jeden plik google sheet z zakładkami
+***
+   
+### Subtask 3
+<i>done</i> 
